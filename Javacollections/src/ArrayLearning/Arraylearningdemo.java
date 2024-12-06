@@ -42,8 +42,11 @@ public class Arraylearningdemo {
 	
 	System.out.println("*******After compare method usage*******");
 	for(String s : names)
-		System.out.println(s);
-	
+		System.out.println(s);  
 	}
 
 }
+
+
+
+
